@@ -1,0 +1,13 @@
+mysql的
+帐号：epshop
+密码：epshop
+
+ecshop后台管理信息：
+地址：http://www.XXX.com/admin/
+管理员：admin
+密码：admin123
+
+ectouch的管理信息：
+地址：http://www.XXX.com/mobile/admin
+管理员：admin
+密码：admin123
